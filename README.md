@@ -1,4 +1,4 @@
-
+<!--
   ┌──────────────────────────────────────────────────────────────────────┐
   │  PRATEEK VIJAY  ·  @prateekvijay265                                   │
   │                                                                      │
@@ -8,14 +8,14 @@
   │  This file is a living document. Rendered by GitHub, maintained by me.│
   │  If you are reading the raw source: everything below is valid GFM.    │
   └──────────────────────────────────────────────────────────────────────┘
-
+-->
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0b1f1d,50:114e46,100:0b1f1d&height=200&section=header&text=Prateek%20Vijay&fontSize=54&fontColor=e6fff7&fontAlignY=42&stroke=5eead4&strokeWidth=1.6&animation=fadeIn&desc=AI%20%C2%B7%20Machine%20Learning%20%C2%B7%20Cognitive%20Tech%20%C2%B7%20Security%20Automation&descAlignY=66&descAlign=50&fontAlign=50" />
-  <img alt="Prateek Vijay — neural banner" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f4f7f6,50:d8e6e1,100:f4f7f6&height=200&section=header&text=Prateek%20Vijay&fontSize=54&fontColor=0b1f1d&fontAlignY=42&stroke=114e46&strokeWidth=1.6&animation=fadeIn&desc=AI%20%C2%B7%20Machine%20Learning%20%C2%B7%20Cognitive%20Tech%20%C2%B7%20Security%20Automation&descAlignY=66&descAlign=50&fontAlign=50" />
-</picture>
+<!-- banner: commit assets/banner.png next to this README (download it from the studio) -->
+<img alt="Prateek Vijay — AI neural network banner" width="100%" src="assets/banner.png" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:060f0e,35:5eead4,65:fbbf24,100:060f0e&height=3&section=header" width="100%" alt="" />
 
 [![Status](https://img.shields.io/badge/status-open%20to%20research%20%26%20internships-5eead4?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=5eead4)](mailto:prateekvijay265@gmail.com)
 [![Focus](https://img.shields.io/badge/focus-applied%20AI%20%2B%20defensive%20security-fbbf24?style=for-the-badge&labelColor=0d1117)](#-stack-manifest)
