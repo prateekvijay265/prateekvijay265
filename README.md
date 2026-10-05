@@ -1,432 +1,229 @@
+<!--
+  ┌──────────────────────────────────────────────────────────────────────┐
+  │  PRATEEK VIJAY  ·  @prateekvijay265                                   │
+  │                                                                      │
+  │  25 public repositories across 5 engineering domains.                │
+  │  AI/ML · Data Intelligence · Cybersecurity · Web Engineering · Research│
+  │                                                                      │
+  │  This file is a living document. Rendered by GitHub, maintained by me.│
+  │  If you are reading the raw source: everything below is valid GFM.    │
+  └──────────────────────────────────────────────────────────────────────┘
+-->
+
 <div align="center">
 
-<!-- AI Neural Network Animated Banner -->
-<svg width="100%" height="120" viewBox="0 0 1000 120" xmlns="http://www.w3.org/2000/svg" style="background: linear-gradient(135deg, #0a0e27 0%, #1a1a3e 100%); border-radius: 12px;">
-  <!-- Neural network nodes -->
-  <circle cx="150" cy="60" r="8" fill="#00D9FF" opacity="0.8"/>
-  <circle cx="250" cy="30" r="6" fill="#7C3AED" opacity="0.6"/>
-  <circle cx="350" cy="80" r="7" fill="#00D9FF" opacity="0.7"/>
-  <circle cx="500" cy="50" r="9" fill="#FF006E" opacity="0.8"/>
-  <circle cx="650" cy="85" r="6" fill="#7C3AED" opacity="0.6"/>
-  <circle cx="750" cy="35" r="8" fill="#00D9FF" opacity="0.7"/>
-  <circle cx="850" cy="65" r="7" fill="#FF006E" opacity="0.8"/>
-  
-  <!-- Connecting lines -->
-  <line x1="150" y1="60" x2="250" y2="30" stroke="#00D9FF" stroke-width="1.5" opacity="0.4"/>
-  <line x1="250" y1="30" x2="350" y2="80" stroke="#7C3AED" stroke-width="1.5" opacity="0.4"/>
-  <line x1="350" y1="80" x2="500" y2="50" stroke="#FF006E" stroke-width="1.5" opacity="0.4"/>
-  <line x1="500" y1="50" x2="650" y2="85" stroke="#00D9FF" stroke-width="1.5" opacity="0.4"/>
-  <line x1="650" y1="85" x2="750" y2="35" stroke="#7C3AED" stroke-width="1.5" opacity="0.4"/>
-  <line x1="750" y1="35" x2="850" y2="65" stroke="#FF006E" stroke-width="1.5" opacity="0.4"/>
-  
-  <!-- Animated pulse -->
-  <circle cx="500" cy="60" r="4" fill="#00D9FF">
-    <animate attributeName="r" values="4;10;4" dur="2s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="1;0;1" dur="2s" repeatCount="indefinite"/>
-  </circle>
-  
-  <!-- Main text -->
-  <text x="500" y="115" font-size="28" font-weight="bold" text-anchor="middle" fill="#00D9FF" font-family="'Courier New', monospace">
-    AI/ML Engineer | Full Stack Developer
-  </text>
-</svg>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0b1f1d,50:114e46,100:0b1f1d&height=200&section=header&text=Prateek%20Vijay&fontSize=54&fontColor=e6fff7&fontAlignY=42&stroke=5eead4&strokeWidth=1.6&animation=fadeIn&desc=AI%20%C2%B7%20Machine%20Learning%20%C2%B7%20Cognitive%20Tech%20%C2%B7%20Security%20Automation&descAlignY=66&descAlign=50&fontAlign=50" />
+  <img alt="Prateek Vijay — neural banner" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f4f7f6,50:d8e6e1,100:f4f7f6&height=200&section=header&text=Prateek%20Vijay&fontSize=54&fontColor=0b1f1d&fontAlignY=42&stroke=114e46&strokeWidth=1.6&animation=fadeIn&desc=AI%20%C2%B7%20Machine%20Learning%20%C2%B7%20Cognitive%20Tech%20%C2%B7%20Security%20Automation&descAlignY=66&descAlign=50&fontAlign=50" />
+</picture>
+
+[![Status](https://img.shields.io/badge/status-open%20to%20research%20%26%20internships-5eead4?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=5eead4)](mailto:prateekvijay265@gmail.com)
+[![Focus](https://img.shields.io/badge/focus-applied%20AI%20%2B%20defensive%20security-fbbf24?style=for-the-badge&labelColor=0d1117)](#-stack-manifest)
+[![Repositories](https://img.shields.io/badge/repos-25-7dd3fc?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=7dd3fc)](https://github.com/prateekvijay265?tab=repositories)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=prateekvijay265&label=profile%20visitors&labelColor=%230d1117&countColor=%235eead4&style=for-the-badge)](https://visitorbadge.io/status?path=prateekvijay265)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=5EEAD4&center=true&vCenter=true&repeat=true&random=false&width=760&height=48&lines=I+build+systems+that+judge%2C+not+just+predict.;Phishing+detector+%E2%80%94+16+handcrafted+risk+signals.;Voice+RAG+%E2%80%94+Transcribe.%C2%A0Retrieve.%C2%A0Generate.;Zero-Trust+auth%2C+bcrypt+cost+12%2C+TOTP+2FA.;Geospatial+intelligence+for+India%27s+next+billion+users.)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## ◐ The Operator
+
+```text
+name        : Prateek Vijay
+handle      : @prateekvijay265
+discipline  : Applied AI / Machine Learning · Data Intelligence · Security Engineering
+mode        : build → measure → harden → write it up
+philosophy  : a model without an eval is a demo; a demo without a threat model is a liability
+location    : India  ·  remote-first  ·  hackathon-grade deadlines
+```
+
+I don't collect frameworks — I ship **end-to-end judgement systems**. Every repository in this profile answers one of three questions:
+
+1. **Can a model tell me this email, this rental, this login is *wrong*?** → detection, classification, risk scoring.
+2. **Can a human read the result in under ten seconds and act?** → dashboards, geospatial intelligence, cognitive UX.
+3. **Can it survive being attacked, offline, or at 3 a.m. on a Testnet?** → Zero-Trust auth, scanners, rate limits, idempotent order flow.
 
 <br/>
 
-# 🧠 PRATEEK VIJAY
-### *Building Intelligent Solutions That Scale*
+<div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                   AI Engineer • Problem Solver                ║
-║              Python | ML | Gen AI | Full Stack                ║
-║            📍 New Delhi, India | Jan 2028 Graduation          ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=18&duration=4000&pause=1000&color=00D9FF&center=true&width=650&lines=Specializing+in+AI+%26+Machine+Learning;Building+Scalable+Full+Stack+Solutions;Passionate+about+Gen+AI+%26+Cloud+Tech" alt="Animated Intro" />
+| 🧠 Cognitive & AI | 📊 Data Intelligence | 🛡 Security | 🚀 Product Eng |
+| :---: | :---: | :---: | :---: |
+| **7** repos | **6** repos | **3** repos | **4** repos |
+| multi-model ML · RAG · CV | dashboards · churn · geospatial | pentest · auth · entropy | Next.js · fintech · NGO |
 
 </div>
 
+<br/>
+
 ---
 
-## 🚀 Quick Overview
+## ▤ Featured Systems
+
+> Ordered by how much engineering judgement each one took, not by star count.
+
+### 🧠 AI, Machine Learning & Cognitive Tech
+
+| Repository | Stack | What it actually does |
+| :--- | :--- | :--- |
+| **[Phishing-Email-Detection-Model](https://github.com/prateekvijay265/Phishing-Email-Detection-Model)** | `Python` `Scikit-learn` `Flask` | AI phishing detector with **multi-model classification** and **16 handcrafted risk signals** (URL topology, header anomalies, lexical pressure cues) returning a verdict in real time. |
+| **[Voice-Rag](https://github.com/prateekvijay265/Voice-Rag)** | `Python` `RAG` `ASR` | Voice-enabled retrieval-augmented pipeline built at **Hacker House Goa 2026**. Architecture in three verbs: *Transcribe → Retrieve → Generate.* |
+| **[RentMyThing](https://github.com/prateekvijay265/RentMyThing)** | `JavaScript` `AI` `Marketplace` | AI-powered campus rental marketplace: generated rental bundles, smart item recommendations, fraud signal detection and live demand matching between students. |
+| **[Face-To-Web](https://github.com/prateekvijay265/Face-To-Web)** | `TypeScript` `CV` `Blockchain` | Convergence project fusing **AI face detection**, integrated web search and **blockchain anchoring** of results for tamper-evident provenance. |
+| **[CognitiveGames](https://github.com/prateekvijay265/CognitiveGames)** | `HTML` `Offline-first` | *Neuro Mind* — AI-powered, offline-first cognitive-wellness platform of brain-training activities with adaptive difficulty. |
+| **[YouvaIntern](https://github.com/prateekvijay265/YouvaIntern)** | `Jupyter` `sklearn` `pandas` | Full ML/AI internship notebook portfolio: pipelines, evaluation harnesses and explainability write-ups from the YouvaIntern trainee program. |
+| **[Portfolio](https://github.com/prateekvijay265/Portfolio)** | `TypeScript` `AI-assisted` | Personal developer portfolio, deliberately built *with* AI during the InAmigos internship — the workflow is documented inside the repo. |
+
+### 📊 Data Science, Analytics & Intelligence
+
+| Repository | Stack | What it actually does |
+| :--- | :--- | :--- |
+| **[Web-Traffic-Analysis](https://github.com/prateekvijay265/Web-Traffic-Analysis)** | `JavaScript` `D3` | *TrafficIQ* — interactive web-traffic intelligence dashboard for funnel, session and cohort behaviour. |
+| **[Dashboard-TST](https://github.com/prateekvijay265/Dashboard-TST)** | `JavaScript` `BI` | *InsightPulse* — executive analytics dashboard: KPI telemetry, variance flags and enterprise reporting in one glance. |
+| **[GeoSpatial-Analysis](https://github.com/prateekvijay265/GeoSpatial-Analysis)** | `JavaScript` `Maps` | *GeoInsight PRO* — geospatial intelligence for India and global business-expansion modelling: catchments, density, site selection. |
+| **[Churn-Analysis](https://github.com/prateekvijay265/Churn-Analysis)** | `JavaScript` `ML` | *ChurnIQ Analytics* — understand, visualise and predict customer churn with feature-importance storytelling. |
+| **[Data-Cleaning](https://github.com/prateekvijay265/Data-Cleaning)** | `JavaScript` `ETL` | *DataForge* — preprocessing, wrangling and cleaning workflows: null strategy, dtype contracts, dedup and audit logs. |
+| **[VirtualWorks](https://github.com/prateekvijay265/VirtualWorks)** | `JavaScript` `Analytics` | Data-analytics internship archive of repeatable workflows, from ingestion to boardroom-ready visual. |
+
+### 🛡 Cybersecurity & Authentication
+
+| Repository | Stack | What it actually does |
+| :--- | :--- | :--- |
+| **[Vulnerability-Scanner](https://github.com/prateekvijay265/Vulnerability-Scanner)** | `Python` `stdlib` | Fast, **zero-dependency** pentest tool: web dashboard, multi-threaded port scanning, SSL/TLS analysis and HTTP security-header audits. |
+| **[Secure-Auth](https://github.com/prateekvijay265/Secure-Auth)** | `HTML` `Node` `SQLite` | Enterprise-grade **Zero-Trust** auth engine — bcrypt cost-12, RFC 6238 TOTP 2FA, SQLite WAL concurrency and automated rate-limiting. |
+| **[Password-Strength-Tester](https://github.com/prateekvijay265/Password-Strength-Tester)** | `CSS` `JavaScript` | *PassGuard* — privacy-first, 100% client-side strength analyser: true entropy, GPU crack-time estimates and keyboard-walk detection. |
+
+### 🚀 Web Applications & Software Engineering
+
+| Repository | Stack | What it actually does |
+| :--- | :--- | :--- |
+| **[SevaSetu](https://github.com/prateekvijay265/SevaSetu)** | `TypeScript` `Next.js 16` `Framer Motion` | Production-ready NGO platform for SevaSetu Foundation — motion-designed, accessible, content-driven. |
+| **[Trading-Bot-on-Binance-Futures-Testnet](https://github.com/prateekvijay265/Trading-Bot-on-Binance-Futures-Testnet)** | `Python` `CLI` | Production-style CLI bot placing and managing **MARKET / LIMIT** orders on Binance Futures Testnet with guarded, idempotent execution. |
+| **[CoinFlow](https://github.com/prateekvijay265/CoinFlow)** | `TypeScript` `UI/UX` | Crypto/finance dashboard with hand-built UI system, custom charts and dense-but-readable market states. |
+| **[She-Can-Foundation-Website](https://github.com/prateekvijay265/She-Can-Foundation-Website)** | `HTML` `CSS` | NGO web app with an "earthy minimalism" design language and scroll-reactive animations. |
+
+### 🎓 Academic, Hackathons & Utilities
+
+| Repository | Stack | What it actually does |
+| :--- | :--- | :--- |
+| **[ID-Card](https://github.com/prateekvijay265/ID-Card)** | `TypeScript` `React` `QR` | Hacker House Goa 2026 app generating dynamic personalised ID cards over a master template with QR / barcode payloads. |
+| **[SMART-INDIA-HACKATHON-PROTOTYPE](https://github.com/prateekvijay265/SMART-INDIA-HACKATHON-PROTOTYPE)** | `JavaScript` | Frontend prototype codebase built for the Smart India Hackathon problem statement. |
+| **[LocaLoom](https://github.com/prateekvijay265/LocaLoom)** | `CSS` | UI/UX frontend prototype for a location-based mini-project, demo-data driven to showcase interaction flow. |
+| **[PYTHON-ASSIGNMENT](https://github.com/prateekvijay265/PYTHON-ASSIGNMENT)** | `Python` | Academic archive: Python Center-of-Excellence lab solutions and experiments. |
+| **[prateekvijay265](https://github.com/prateekvijay265/prateekvijay265)** | `Markdown` | This profile — stylised with a custom animated AI neural-network banner. |
+
+---
+
+## ⌁ Stack Manifest
+
+<details open>
+<summary><b>Languages & runtime</b></summary>
+
+[![Python](https://img.shields.io/badge/Python-3.11-3776ab?style=flat-square&logo=python&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178c6?style=flat-square&logo=typescript&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-es2023-f7df1e?style=flat-square&logo=javascript&logoColor=111)](#)
+[![Node](https://img.shields.io/badge/Node.js-runtime-339933?style=flat-square&logo=nodedotjs&logoColor=white)](#)
+[![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=css3&logoColor=white)](#)
+[![SQL](https://img.shields.io/badge/SQL-postgres-4169e1?style=flat-square&logo=postgresql&logoColor=white)](#)
+
+</details>
+
+<details open>
+<summary><b>Machine learning & data</b></summary>
+
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-f7b731?style=flat-square&logo=scikitlearn&logoColor=white)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](#)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](#)
+[![Flask](https://img.shields.io/badge/Flask-REST-000?style=flat-square&logo=flask&logoColor=white)](#)
+[![Jupyter](https://img.shields.io/badge/Jupyter-notebooks-f37626?style=flat-square&logo=jupyter&logoColor=white)](#)
+[![RAG](https://img.shields.io/badge/RAG-vector%20retrieval-5eead4?style=flat-square&logo=weaviate&logoColor=111)](#)
+[![Chart.js](https://img.shields.io/badge/Chart.js-ff6384?style=flat-square&logo=chartdotjs&logoColor=white)](#)
+
+</details>
+
+<details open>
+<summary><b>Product, security & ops</b></summary>
+
+[![Next.js](https://img.shields.io/badge/Next.js%2016-000?style=flat-square&logo=nextdotjs&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-19-61dafb?style=flat-square&logo=react&logoColor=111)](#)
+[![Tailwind](https://img.shields.io/badge/Tailwind-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white)](#)
+[![Framer](https://img.shields.io/badge/Framer%20Motion-0055ff?style=flat-square&logo=framer&logoColor=white)](#)
+[![Bcrypt](https://img.shields.io/badge/bcrypt-cost%2012-fbbf24?style=flat-square&logo=bitwarden&logoColor=white)](#)
+[![TOTP](https://img.shields.io/badge/RFC%206238-TOTP%202FA-f87171?style=flat-square&logo=authy&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-version%20pinned-f05033?style=flat-square&logo=git&logoColor=white)](#)
+
+</details>
+
+<br/>
+
+---
+
+## ◈ How I Work
+
+| Principle | Practised as |
+| :--- | :--- |
+| **Signals over vibes** | Every detector ships with its feature list — 16 documented risk signals beat one opaque score. |
+| **Eval before demo** | Precision / recall, confusion matrix and failure gallery live in the same repo as the app. |
+| **Threat-model the happy path** | Auth, rate limits, header policy and secret handling are features, not afterthoughts. |
+| **Offline is a feature** | Progressive, cached, keyboard-usable — *Neuro Mind* and *PassGuard* never need a server. |
+| **Ten-second legibility** | If the dashboard needs a paragraph, the dashboard is wrong. |
+| **Write it up** | READMEs, architecture notes and honest limitations sections; a repo nobody can read is a repo nobody can hire from. |
+
+---
+
+## ⌬ GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=prateekvijay265&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=5eead4&icon_color=fbbf24&text_color=c9d1d9&hide=contribs&rank_icon=github" alt="GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prateekvijay265&layout=compact&hide_border=true&bg_color=0d1117&title_color=5eead4&text_color=c9d1d9&langs_count=8&hide=SCSS,Handlebars" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prateekvijay265&hide_border=true&background=0d1117&stroke=30363d&ring=5eead4&fire=fbbf24&currStreakLabel=5eead4&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prateekvijay265&theme=algolia&no-frame=true&no-bg=true&margin-w=12&column=7" alt="Trophies" />
+</div>
+
+<details>
+<summary><b>📈 activity heatmap</b></summary>
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prateekvijay265&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=58a6ff&icon_color=79c0ff&card_width=500)](https://github.com/prateekvijay265)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=prateekvijay265&theme=tokyonight&hide_border=true)](https://github.com/prateekvijay265)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prateekvijay265&bg_color=0d1117&color=5eead4&line=fbbf24&point=e6fff7&area=true&hide_border=true&graph_title=commit%20cadence)
 
 </div>
 
+</details>
+
 ---
 
-## 🎓 Education & Background
+## ✉ Handshake
 
 <div align="center">
 
-| 📚 **Qualification** | 📖 **Details** |
-|---|---|
-| **B.Tech in Computer Science & Engineering** | Specialization: AI/ML |
-| **University** | AKTU (Dr. A.P.J. Abdul Kalam Technical University) |
-| **Expected Graduation** | January 2028 |
-| **Location** | New Delhi, India |
+[![Email](https://img.shields.io/badge/email-prateekvijay265%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prateekvijay265@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-@prateekvijay265-5eead4?style=for-the-badge&logo=github&logoColor=111&labelColor=0d1117)](https://github.com/prateekvijay265)
+[![LinkedIn](https://img.shields.io/badge/linkedin-prateek--vijay-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prateekvijay)
+[![Kaggle](https://img.shields.io/badge/kaggle-competitions-20beff?style=for-the-badge&logo=kaggle&logoColor=111)](https://www.kaggle.com/)
+[![Hackathon](https://img.shields.io/badge/Hacker%20House%20Goa%20'26-%C2%B7%20SIH-fbbf24?style=for-the-badge&labelColor=0d1117)](#-featured-systems)
 
 </div>
 
----
+<br/>
 
-## 💼 Professional Timeline
-
-```
-╔════════════════════════════════════════════════════════════╗
-║                    INTERNSHIP JOURNEY                       ║
-├════════════════════════════════════════════════════════════┤
-│                                                             │
-│  🤖 YuvaIntern - AI Trainee                                │
-│     └─ ML Projects | Deep Learning | Algorithm Design      │
-│                                                             │
-│  📊 VirtualWorks - Data Analytics Intern                   │
-│     └─ SQL | Power BI | Data Visualization                │
-│     └─ Analytical Solutions & Insights Extraction          │
-│                                                             │
-│  🛡️ Thiranex - Cybersecurity Intern                        │
-│     └─ Encryption | Network Security | Audits             │
-│     └─ Security Best Practices Implementation              │
-│                                                             │
-│  🌐 InAmigos - Portfolio Developer                         │
-│     └─ AI-Powered Portfolio Creation                       │
-│     └─ Fullstack Development & Design                      │
-│                                                             │
-└════════════════════════════════════════════════════════════╝
-```
-
----
-
-## 💻 Tech Stack by Category
-
-### 🤖 **AI & Machine Learning**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Google Cloud Gen AI](https://img.shields.io/badge/Google%20Cloud%20Gen%20AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-### 📊 **Data Science & Analytics**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### 🎨 **Frontend Development**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🔧 **Backend & DevOps**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### 🔐 **Core Concepts**
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Data Structures](https://img.shields.io/badge/Data%20Structures-FF6B6B?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-FF6B6B?style=for-the-badge)
-![DBMS](https://img.shields.io/badge/DBMS-FF6B6B?style=for-the-badge)
-
----
-
-## 🎯 Skill Proficiency Matrix
+> **Currently reviewing:** ML-system design, adversarial email corpora, on-device RAG, and any team that reads a confusion matrix before a pitch deck.
+>
+> **Open to:** internships · research assistance · security-tooling collaborations · hackathon squads
 
 <div align="center">
 
-| Category | Skills | Proficiency |
-|----------|--------|-------------|
-| **Machine Learning** | TensorFlow, PyTorch, Scikit-learn | ████████░░ 80% |
-| **Python** | Core, Data Science, Automation | █████████░ 90% |
-| **Full Stack** | React, Next.js, Node.js | ████████░░ 80% |
-| **Data Analytics** | SQL, Pandas, Power BI | ████████░░ 85% |
-| **Cloud** | Google Cloud, Firebase | ███████░░░ 70% |
-| **Frontend** | HTML/CSS, JavaScript, TypeScript | █████████░ 90% |
+![Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
-</div>
-
----
-
-## 🏅 Achievements & Certifications
-
-<div align="center">
-
-### 🎓 Google Cloud Certifications
-
-```
-✅ Google Cloud Generative AI Badges
-✅ Gen AI Agents: Transform Your Organization
-✅ Gen AI Apps: Transform Your Work
-✅ Gen AI: Navigate the Landscape
-✅ Gen AI: Unlock Foundational Concepts
-✅ Gen AI: Beyond the Chatbot
-```
-
-### 🏆 Repository Trophies
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=prateekvijay265&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=6)](https://github.com/prateekvijay265)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🤖 **RentMyThing** - AI Campus Marketplace
-[📂 Repository](https://github.com/prateekvijay265/RentMyThing)
-
-> AI-powered rental platform with fraud detection & smart recommendations
-
-```
-🎯 Highlights:
-├─ ML Fraud Detection Engine
-├─ Demand Matching Algorithm
-├─ Campus Interactive Maps
-├─ AI-Generated Rental Bundles
-└─ Verified Student Authentication
-```
-
-**Tech Stack:** JavaScript | Python ML | Firebase | Real-time APIs
-
----
-
-### 💰 **CoinFlow** - Crypto Trading Platform
-[📂 Repository](https://github.com/prateekvijay265/CoinFlow)
-
-> Modern cryptocurrency trading platform with real-time market data
-
-**Tech Stack:** TypeScript | Web3 | Node.js | Real-time APIs
-
----
-
-### 🛡️ **Cybersecurity Portfolio** - Thiranex Internship
-[📂 Repository](https://github.com/prateekvijay265/Cyber-Security-Internship-ThiraneX-)
-
-> Complete cybersecurity training with encryption, audits & threat analysis
-
-```
-📚 Coverage:
-├─ Encryption & Decryption Algorithms
-├─ Network Security & Protocols
-├─ Vulnerability Assessment
-└─ Security Implementation
-```
-
-**Tech Stack:** Python | Cryptography | Network Analysis
-
----
-
-### 📈 **Trading Bot** - Binance Futures Testnet
-[📂 Repository](https://github.com/prateekvijay265/Trading-Bot-on-Binance-Futures-Testnet)
-
-> Automated trading bot with algorithmic strategies
-
-**Tech Stack:** Python | Binance API | Algorithm Design | Backtesting
-
----
-
-### 📊 **VirtualWorks** - Data Analytics Internship
-[📂 Repository](https://github.com/prateekvijay265/VirtualWorks)
-
-> Data analytics, visualization & business intelligence solutions
-
-**Tech Stack:** JavaScript | SQL | Pandas | Power BI | Matplotlib
-
----
-
-### 🎓 **YouvaIntern** - ML & AI Projects
-[📂 Repository](https://github.com/prateekvijay265/YouvaIntern)
-
-> Machine learning experimentation & algorithm implementation
-
-**Tech Stack:** Python | Jupyter | Scikit-learn | TensorFlow
-
----
-
-### 🎨 **She Can Foundation Website**
-[📂 Repository](https://github.com/prateekvijay265/She-Can-Foundation-Website)
-
-> Professional website with premium design & animations
-
-```
-✨ Design Features:
-├─ Earthy Minimalism Aesthetic
-├─ Dynamic Animations
-├─ Fully Responsive Layout
-└─ Premium UX
-```
-
-**Tech Stack:** HTML5 | CSS3 | Vanilla JavaScript
-
----
-
-### 🏛️ **Smart India Hackathon** - Prototype
-[📂 Repository](https://github.com/prateekvijay265/SMART-INDIA-HACKATHON-PROTOTYPE)
-
-> Innovative hackathon prototype with modern UI/UX
-
-**Tech Stack:** JavaScript | Responsive Design | UI/UX
-
----
-
-### 🏠 **LocaLoom** - Property Platform Frontend
-[📂 Repository](https://github.com/prateekvijay265/LocaLoom)
-
-> Modern frontend for property discovery & listings
-
-**Tech Stack:** React | TypeScript | Responsive Design
-
----
-
-### 🎯 **Portfolio Website**
-[📂 Repository](https://github.com/prateekvijay265/Portfolio)
-
-> AI-powered portfolio built for InAmigos Internship
-
-**Tech Stack:** TypeScript | Next.js | Modern Animations
-
-</div>
-
----
-
-## 📚 Currently Learning & Exploring
-
-<div align="center">
-
-| 🧠 **Topic** | 📖 **Focus Area** | 🎯 **Goal** |
-|---|---|---|
-| 🤖 Advanced Gen AI | Multi-Agent Systems & Orchestration | Production Deployment |
-| 🧠 Deep Learning | Transformers & LLMs | Model Fine-tuning |
-| 📊 Advanced Data Science | Time Series Forecasting | Real-world Analytics |
-| ☁️ Cloud Architecture | GCP Microservices | Scalable Solutions |
-| 🔐 Advanced Security | End-to-End Encryption | Secure Systems |
-
-</div>
-
----
-
-## 🎯 Career Vision & Goals
-
-```
-🔮 CAREER ROADMAP 2028+
-
-┌─────────────────────────────���───────────────────────────┐
-│ PHASE 1: BUILD (2025-2026)                              │
-├─────────────────────────────────────────────────────────┤
-│ ✓ Deploy production ML models                           │
-│ ✓ Build scalable AI products                            │
-│ ✓ Contribute to open-source AI projects                 │
-│ ✓ Complete 5+ real-world deployments                    │
-└─────────────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────────────┐
-│ PHASE 2: LEAD (2026-2027)                               │
-├─────────────────────────────────────────────────────────┤
-│ ✓ Lead AI/ML engineering teams                          │
-│ ✓ Research & innovation projects                        │
-│ ✓ Mentorship & knowledge sharing                        │
-│ ✓ Conference talks & publications                       │
-└─────────────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────────────┐
-│ PHASE 3: IMPACT (2028+)                                 │
-├─────────────────────────────────────────────────────────┤
-│ ✓ AI for social good initiatives                        │
-│ ✓ Solve real-world problems at scale                    │
-│ ✓ Build technology that matters                         │
-│ ✓ Inspire next generation of engineers                  │
-└─────────────────────────────────────────────────────────┘
-```
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-**Let's collaborate on AI-powered solutions & innovative projects!**
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prateekvijay265@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prateek-vijay-457b452a)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prateekvijay265)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917042253519)
-
-**📍 Location:** New Delhi, India
-
-</div>
-
----
-
-## 📊 Activity & Contributions
-
-<div align="center">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prateekvijay265&theme=tokyo-night&hide_border=true&area=true)](https://github.com/prateekvijay265)
-
-</div>
-
----
-
-## 🐍 Contribution Insights
-
-<div align="center">
-
-![GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prateekvijay265&theme=tokyonight)
-
-</div>
-
----
-
-## 💡 Developer Philosophy
-
-<div align="center">
-
-> **"Code is poetry written in logic. AI is the next frontier of human progress."**
-
-*Building solutions that matter. Creating impact that lasts. Innovating with purpose.*
-
-</div>
-
----
-
-## 👀 Profile Analytics
-
-<div align="center">
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fprateekvijay265&label=Profile%20Visitors&countColor=%2300d9ff&style=flat-square)
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ *Building the Future with AI & Code* ⚡
-
-**Made with 💻 & ❤️ by Prateek Vijay**
-
-*Pushing boundaries | Solving problems | Shipping code*
-
-**Last Updated:** July 2026
+<sub><i>repo counter</i> &nbsp;·&nbsp; thanks for reading to the bottom &nbsp;·&nbsp; <code>printf 'ship it, then document it\n' | tee -a life.log</code></sub>
 
 </div>
