@@ -18,11 +18,15 @@
   ║ Custom AI Neural Network theme: Deep Teal (#040908) -> Acid Mint (#5eead4)║
   ╚══════════════════════════════════════════════════════════════════════════╝
 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:040908,30:08221f,70:0f3833,100:040908&height=250&section=header&text=PRATEEK%20VIJAY&fontSize=52&fontColor=ffffff&fontAlignY=40&stroke=5eead4&strokeWidth=1.8&animation=fadeIn&desc=AI%20%C2%B7%20MACHINE%20LEARNING%20%C2%B7%20COGNITIVE%20TECH%20%C2%B7%20SECURITY&descSize=15&descAlignY=62&descAlign=50&fontAlign=50" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f0fdfa,30:ccfbf1,70:99f6e4,100:f0fdfa&height=250&section=header&text=PRATEEK%20VIJAY&fontSize=52&fontColor=042f2e&fontAlignY=40&stroke=0d9488&strokeWidth=1.8&animation=fadeIn&desc=AI%20%C2%B7%20MACHINE%20LEARNING%20%C2%B7%20COGNITIVE%20TECH%20%C2%B7%20SECURITY&descSize=15&descAlignY=62&descAlign=50&fontAlign=50" />
-  <img alt="Prateek Vijay — AI Neural Network Banner" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:040908,30:08221f,70:0f3833,100:040908&height=250&section=header&text=PRATEEK%20VIJAY&fontSize=52&fontColor=ffffff&fontAlignY=40&stroke=5eead4&strokeWidth=1.8&animation=fadeIn&desc=AI%20%C2%B7%20MACHINE%20LEARNING%20%C2%B7%20COGNITIVE%20TECH%20%C2%B7%20SECURITY&descSize=15&descAlignY=62&descAlign=50&fontAlign=50" />
-</picture>
+<div align="center">
+
+<img
+  src="./banner.png"
+  alt="Prateek Vijay — AI Machine Learning Cognitive Tech Security"
+  width="100%"
+/>
+
+</div>
 
 <!-- Neon separator line -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:040908,25:5eead4,75:fbbf24,100:040908&height=4&section=header" width="100%" alt="" />
