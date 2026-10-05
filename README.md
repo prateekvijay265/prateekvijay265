@@ -1,4 +1,4 @@
-<!--
+
   ┌──────────────────────────────────────────────────────────────────────┐
   │  PRATEEK VIJAY  ·  @prateekvijay265                                   │
   │                                                                      │
@@ -8,7 +8,7 @@
   │  This file is a living document. Rendered by GitHub, maintained by me.│
   │  If you are reading the raw source: everything below is valid GFM.    │
   └──────────────────────────────────────────────────────────────────────┘
--->
+
 
 <div align="center">
 
