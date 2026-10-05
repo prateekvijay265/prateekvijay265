@@ -12,10 +12,20 @@
 
 <div align="center">
 
-<!-- banner: commit assets/banner.png next to this README (download it from the studio) -->
-<img alt="Prateek Vijay — AI neural network banner" width="100%" src="assets/banner.png" />
+<!-- 
+  ╔══════════════════════════════════════════════════════════════════════════╗
+  ║ HERO BANNER — Guaranteed 100% uptime on GitHub (Zero 404s)               ║
+  ║ Custom AI Neural Network theme: Deep Teal (#040908) -> Acid Mint (#5eead4)║
+  ╚══════════════════════════════════════════════════════════════════════════╝
+-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:040908,30:08221f,70:0f3833,100:040908&height=250&section=header&text=PRATEEK%20VIJAY&fontSize=52&fontColor=ffffff&fontAlignY=40&stroke=5eead4&strokeWidth=1.8&animation=fadeIn&desc=AI%20%C2%B7%20MACHINE%20LEARNING%20%C2%B7%20COGNITIVE%20TECH%20%C2%B7%20SECURITY&descSize=15&descAlignY=62&descAlign=50&fontAlign=50" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f0fdfa,30:ccfbf1,70:99f6e4,100:f0fdfa&height=250&section=header&text=PRATEEK%20VIJAY&fontSize=52&fontColor=042f2e&fontAlignY=40&stroke=0d9488&strokeWidth=1.8&animation=fadeIn&desc=AI%20%C2%B7%20MACHINE%20LEARNING%20%C2%B7%20COGNITIVE%20TECH%20%C2%B7%20SECURITY&descSize=15&descAlignY=62&descAlign=50&fontAlign=50" />
+  <img alt="Prateek Vijay — AI Neural Network Banner" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:040908,30:08221f,70:0f3833,100:040908&height=250&section=header&text=PRATEEK%20VIJAY&fontSize=52&fontColor=ffffff&fontAlignY=40&stroke=5eead4&strokeWidth=1.8&animation=fadeIn&desc=AI%20%C2%B7%20MACHINE%20LEARNING%20%C2%B7%20COGNITIVE%20TECH%20%C2%B7%20SECURITY&descSize=15&descAlignY=62&descAlign=50&fontAlign=50" />
+</picture>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:060f0e,35:5eead4,65:fbbf24,100:060f0e&height=3&section=header" width="100%" alt="" />
+<!-- Neon separator line -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:040908,25:5eead4,75:fbbf24,100:040908&height=4&section=header" width="100%" alt="" />
 
 [![Status](https://img.shields.io/badge/status-open%20to%20research%20%26%20internships-5eead4?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=5eead4)](mailto:prateekvijay265@gmail.com)
 [![Focus](https://img.shields.io/badge/focus-applied%20AI%20%2B%20defensive%20security-fbbf24?style=for-the-badge&labelColor=0d1117)](#-stack-manifest)
