@@ -190,28 +190,55 @@ I don't collect frameworks — I ship **end-to-end judgement systems**. Every re
 
 ## ⌬ GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=prateekvijay265&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=5eead4&icon_color=fbbf24&text_color=c9d1d9&hide=contribs&rank_icon=github" alt="GitHub stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prateekvijay265&layout=compact&hide_border=true&bg_color=0d1117&title_color=5eead4&text_color=c9d1d9&langs_count=8&hide=SCSS,Handlebars" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prateekvijay265&hide_border=true&background=0d1117&stroke=30363d&ring=5eead4&fire=fbbf24&currStreakLabel=5eead4&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prateekvijay265&theme=algolia&no-frame=true&no-bg=true&margin-w=12&column=7" alt="Trophies" />
-</div>
-
-<details>
-<summary><b>📈 activity heatmap</b></summary>
+## ◈ GitHub Analytics
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prateekvijay265&bg_color=0d1117&color=5eead4&line=fbbf24&point=e6fff7&area=true&hide_border=true&graph_title=commit%20cadence)
+<img
+  src="https://github-readme-stats.vercel.app/api?username=prateekvijay265&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=5eead4&icon_color=fbbf24&text_color=c9d1d9&hide=contribs&rank_icon=github"
+  height="180"
+  alt="GitHub Stats"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekvijay265&layout=compact&hide_border=true&bg_color=0d1117&title_color=5eead4&text_color=c9d1d9&langs_count=8&hide=SCSS,Handlebars"
+  height="180"
+  alt="Top Languages"
+/>
 
 </div>
 
+<br/>
+
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=prateekvijay265&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=5eead4&fire=fbbf24&currStreakLabel=5eead4&sideLabels=c9d1d9&dates=8b949e"
+  height="180"
+  alt="GitHub Streak"
+/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=prateekvijay265&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&column=7"
+  width="90%"
+  alt="GitHub Trophies"
+/>
+
+</div>
+
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=prateekvijay265&bg_color=0d1117&color=5eead4&line=fbbf24&point=e6fff7&area=true&hide_border=true&graph_title=commit%20cadence"
+    width="95%"
+    alt="GitHub Activity Graph"
+  />
+</div>
 </details>
 
 ---
